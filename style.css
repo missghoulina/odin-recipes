@@ -30,10 +30,8 @@ img {
 
 h1 {
     text-shadow: 2px 2px pink;
-    font-family: 'Courier New', Courier, monospace
-    font-size: 50px;
-    
-    
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;   
 }
 
 a:link, a:visited, a:hover{
@@ -43,6 +41,5 @@ a:link, a:visited, a:hover{
 
 a:hover{
     color:pink;
-    text-decoration: none;
-   
+    text-decoration: none; 
  }
