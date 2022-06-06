@@ -52,5 +52,7 @@ a:hover{
      border-width: 2px;
      border-color: black;
      font-family: 'Courier New', Courier, monospace;
-     padding:5px;
+     padding:10px;
+     font-weight: bolder;
+     font-size: larger;
  }
